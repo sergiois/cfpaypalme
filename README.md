@@ -18,6 +18,10 @@ Joomla! Custom Field to integrate PayPalMe into your Joomla articles
 ### Version 1.0.0 [2017-07-20]
 * **[Added]** Button with customization
 
+### Version 1.0.1 [2019-01-20]
+* **[Added]** Changes to upload plugin to the JED
+* **[Changed]** Language files
+
 * * *
 
 ## Copyright & License
